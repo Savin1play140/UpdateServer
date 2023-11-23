@@ -1,0 +1,64 @@
+body {
+	background-color: lightblue;
+	font: 95% sans-serif; 
+}
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+} a:link {
+  color: black;
+  text-decoration: none;
+} a:visited {
+  color: black;
+  text-decoration: none;
+} a:focus {
+  border-bottom: 1px solid;
+  background: lightcyan;
+  text-decoration: none;
+} a:hover {
+  border-bottom: 1px solid;
+  background: lightcyan;
+  text-decoration: none;
+} a:active {
+  background: lightcyan;
+  color: black;
+  text-decoration: none;
+}
+ad {
+	background: black;
+	color: white;
+	font: 100% serif;
+	text-decoration: blink;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	height: 5%;
+	width: 100%;
+}
+ad a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+  color: white;
+} ad a:link {
+  color: white;
+  text-decoration: none;
+} ad a:visited {
+  color: white;
+  text-decoration: none;
+} ad a:focus {
+  color: white;
+  border-bottom: 1px solid;
+  background: cyan;
+  text-decoration: none;
+} ad a:hover {
+  color: white;
+  border-bottom: 1px solid;
+  background: cyan;
+  text-decoration: none;
+} ad a:active {
+  color: white;
+  background: cyan;
+  text-decoration: none;
+}
